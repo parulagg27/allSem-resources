@@ -2,6 +2,8 @@
 Notes, files and question papers for all Sems, IPU
 
 ## References:
+
+### Sem4:
 1. **Maths**: Grewal
 2. **DBMS**: - [Easy Engineering Classes](https://www.youtube.com/watch?v=c6o1X3AIIb0&list=PLV8vIYTIdSnYZjtUDQ5-9siMc2d8YeoB4)
              - [University Academy](https://www.youtube.com/watch?v=-FG8Y9lNzVE&list=PLG9aCp4uE-s0j5aFXp15gRJzAFzkRVnwC)
@@ -14,3 +16,10 @@ Notes, files and question papers for all Sems, IPU
              - [Easy Engineering Classes]()
 6. **COA**:  - [Easy Engineering Classes](https://www.youtube.com/watch?v=B6rqMbArcew&list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3)
              - [Semester Simplified](https://www.youtube.com/channel/UClbcqZITCLAV0r-CzrAhCwA/playlists)
+
+### Sem5:
+1. **IM**:
+- Chapter 1 [Notes](https://hackmd.io/s/BJlGjtNFQ#)
+- Chapter 2 [Notes](https://hackmd.io/s/Sy5Vr6EKX#)
+- Chapter 3 [Notes](https://hackmd.io/s/H1n6LXBt7#)
+

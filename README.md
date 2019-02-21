@@ -3,6 +3,55 @@ Notes, files and question papers for all Sems, IPU
 
 ## References:
 
+### Sem6:
+CSE/IT 6th Sem Complete notes final links :
+
+**Compiler Design**
+- notes : http://bit.ly/CDnote
+- CD videos IPU http://bit.ly/CDvideos1
+- CD videos Ravindra :  http://bit.ly/CDvideos2
+---------------------------------------
+
+**Web Engineering** 
+- Notes: http://bit.ly/WEnote
+- WE videos EEC :  http://bit.ly/WEvideos1
+
+---------------------------------------
+**Operating System**
+- Notes: http://bit.ly/OSnotes
+- OS videos Ravindra :  http://bit.ly/OSvideos1
+- OS videos EEC http://bit.ly/OSvideos2
+
+---------------------------------------
+**MPMC**
+- Notes : http://bit.ly/MPMCnotes
+- (Self made playlist): http://bit.ly/MPMCvideos
+---------------------------------------
+**DCN**
+- Notes : http://bit.ly/DCNnotes
+- DCN videos IPU http://bit.ly/DCNvideos1
+- DCN EEC :http://bit.ly/DCNvideos2
+
+---------------------------------------
+**Artificial Intelligence**
+- Notes:  http://bit.ly/AInotes
+- AI videos Well Academy :  http://bit.ly/AIvideos1
+- AI Last moment tutions http://bit.ly/AIvideos2
+
+---------------------------------------
+
+**Bhavya**
+- will get updated at: http://bit.ly/Bhavya6
+---------------------------------------
+
+
+### Sem5:
+1. **IM**:
+- Chapter 1 [Notes](https://hackmd.io/s/BJlGjtNFQ#)
+- Chapter 2 [Notes](https://hackmd.io/s/Sy5Vr6EKX#)
+- Chapter 3 [Notes](https://hackmd.io/s/H1n6LXBt7#)
+
+
 ### Sem4:
 1. **Maths**: Grewal
 2. **DBMS**: - [Easy Engineering Classes](https://www.youtube.com/watch?v=c6o1X3AIIb0&list=PLV8vIYTIdSnYZjtUDQ5-9siMc2d8YeoB4)
@@ -17,9 +66,5 @@ Notes, files and question papers for all Sems, IPU
 6. **COA**:  - [Easy Engineering Classes](https://www.youtube.com/watch?v=B6rqMbArcew&list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3)
              - [Semester Simplified](https://www.youtube.com/channel/UClbcqZITCLAV0r-CzrAhCwA/playlists)
 
-### Sem5:
-1. **IM**:
-- Chapter 1 [Notes](https://hackmd.io/s/BJlGjtNFQ#)
-- Chapter 2 [Notes](https://hackmd.io/s/Sy5Vr6EKX#)
-- Chapter 3 [Notes](https://hackmd.io/s/H1n6LXBt7#)
+
 

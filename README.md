@@ -21,11 +21,11 @@ CSE/IT 6th Sem Complete notes final links :
 - OS videos EEC http://bit.ly/OSvideos2
 
 ---------------------------------------
-**MPMC**
+**MPMC* (Microprocessors & Microcontrollers)*
 - Notes : http://bit.ly/MPMCnotes
 - (Self made playlist): http://bit.ly/MPMCvideos
 ---------------------------------------
-**DCN**
+**DCN (Computer Networks)**
 - Notes : http://bit.ly/DCNnotes
 - DCN videos IPU http://bit.ly/DCNvideos1
 - DCN EEC :http://bit.ly/DCNvideos2

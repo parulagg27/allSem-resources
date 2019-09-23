@@ -1,6 +1,15 @@
 # allSem-Notes
 Notes, files and question papers for all Sems, IPU
 
+## Sem7: 
+For IT subjects:
+
+**Cryptography & Network Security (CNS)**
+- [CNS Unacedemy Lectures](https://www.youtube.com/playlist?list=PLiSPNzs4fD9sZRd3hfiZHndNs_703jksz)
+- [5minutes engineering playlist](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) (Has a good explanation for a lot of difficult concepts)
+- Class Lecture Notes/ PPts: https://github.com/alkaleekha/Lecture-Notes/
+- Refer book as well
+
 ## Sem6:
 CSE/IT 6th Sem Complete notes final links :
 

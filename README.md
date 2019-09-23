@@ -10,6 +10,8 @@ For IT subjects:
 - Class Lecture Notes/ PPts: https://github.com/alkaleekha/Lecture-Notes/
 - Refer book as well
 
+---------------------------------------
+
 ## Sem6:
 CSE/IT 6th Sem Complete notes final links :
 

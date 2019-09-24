@@ -10,6 +10,12 @@ For IT subjects:
 - Class Lecture Notes/ PPts: https://github.com/alkaleekha/Lecture-Notes/
 - Refer book as well
 
+
+**Advanced Computer Networks (ACN)**
+- [EEC videos](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYgxRYBC7blHaVUGFHUXLns) (Best Resource)
+- [University Academy](https://www.youtube.com/playlist?list=PLG9aCp4uE-s3Mmbn4q5J87OriIN3CuFDS) (for Missing Topics)
+- NotesHub All-in-1 PDF
+
 ---------------------------------------
 
 ## Sem6:

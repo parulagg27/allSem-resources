@@ -16,6 +16,10 @@ For IT subjects:
 - [University Academy](https://www.youtube.com/playlist?list=PLG9aCp4uE-s3Mmbn4q5J87OriIN3CuFDS) (for Missing Topics)
 - NotesHub All-in-1 PDF
 
+**Wireless Communication (WC)**
+**System and Network Administration**
+**Cloud Computing**
+
 ---------------------------------------
 
 ## Sem6:
@@ -25,29 +29,27 @@ CSE/IT 6th Sem Complete notes final links :
 - notes : http://bit.ly/CDnote
 - CD videos IPU http://bit.ly/CDvideos1
 - CD videos Ravindra :  http://bit.ly/CDvideos2
----------------------------------------
+
 
 **Web Engineering** 
 - Notes: http://bit.ly/WEnote
 - WE videos EEC :  http://bit.ly/WEvideos1
 
----------------------------------------
+
 **Operating System**
 - Notes: http://bit.ly/OSnotes
 - OS videos Ravindra :  http://bit.ly/OSvideos1
 - OS videos EEC http://bit.ly/OSvideos2
 
----------------------------------------
 **MPMC(Microprocessors & Microcontrollers)**
 - Notes : http://bit.ly/MPMCnotes
 - (Self made playlist): http://bit.ly/MPMCvideos
----------------------------------------
+
 **DCN (Computer Networks)**
 - Notes : http://bit.ly/DCNnotes
 - DCN videos IPU http://bit.ly/DCNvideos1
 - DCN EEC :http://bit.ly/DCNvideos2
 
----------------------------------------
 **Artificial Intelligence**
 - Notes:  http://bit.ly/AInotes
 - AI videos Well Academy :  http://bit.ly/AIvideos1
